@@ -2,6 +2,8 @@
 
 For Trireme trading technical assessment.
 
+!()[trireme.png]
+
 This project is a **SOL/USDT Trading Dashboard** designed to demonstrate real-time trading data from Bybit's API. The dashboard provides two key features:
 
 1. **Candlestick Chart**: Displays live trading data in the form of a candlestick chart.
