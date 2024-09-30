@@ -2,7 +2,7 @@
 
 For Trireme trading technical assessment.
 
-!()[trireme.png]
+![](trireme.png)
 
 This project is a **SOL/USDT Trading Dashboard** designed to demonstrate real-time trading data from Bybit's API. The dashboard provides two key features:
 
